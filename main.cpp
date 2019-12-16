@@ -6,10 +6,14 @@ int main() {
     std::cout << "Hello World!!" << std::endl;
 
     std::vector<int> v;
-    v = {10,20,30};
+    
+    v.assign (10, 20);
+    
+    std::vector<int>::iterator it;
 
-    for (auto const& c : v)
-    std::cout << c << ' ';
-
+    std::cout << "This vector is:";
+    for (std::vector<int>::iterator it = v.begin(); it != v.end(); ++it)
+    std::cout << ' ' << *it;
+  
     return 0;
 }
