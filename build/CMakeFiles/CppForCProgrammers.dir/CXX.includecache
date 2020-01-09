@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/graph.h
+iostream
+-
+
+/home/choct155/projects/newLangsTools/c++/cppForCProgrammers/src/graph.cpp
+graph.h
+/home/choct155/projects/newLangsTools/c++/cppForCProgrammers/src/graph.h
+

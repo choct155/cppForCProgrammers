@@ -1,0 +1,3 @@
+/home/choct155/projects/newLangsTools/c++/cppForCProgrammers/build/CMakeFiles/rebuild_cache.dir
+/home/choct155/projects/newLangsTools/c++/cppForCProgrammers/build/CMakeFiles/CppForCProgrammers.dir
+/home/choct155/projects/newLangsTools/c++/cppForCProgrammers/build/CMakeFiles/edit_cache.dir

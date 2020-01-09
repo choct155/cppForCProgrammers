@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/CppForCProgrammers.dir/src/graph.cpp.o CMakeFiles/CppForCProgrammers.dir/src/main.cpp.o CMakeFiles/CppForCProgrammers.dir/src/math.cpp.o CMakeFiles/CppForCProgrammers.dir/src/point.cpp.o  -o CppForCProgrammers 
