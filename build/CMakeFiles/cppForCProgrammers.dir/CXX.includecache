@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/sum.h
+vector
+-
+
+/Users/Sarah/Projects/cppForCProgrammers/src/main.cpp
+iostream
+-
+sum.h
+/Users/Sarah/Projects/cppForCProgrammers/src/sum.h
+vector
+-
+
+/Users/Sarah/Projects/cppForCProgrammers/src/sum.cpp
+vector
+-
+
